@@ -112,8 +112,12 @@ GND is the ground pin.
 
 ## Output screen shots on serial monitor   :
  
+<img width="974" height="713" alt="Screenshot 2026-05-15 144006" src="https://github.com/user-attachments/assets/ed05b5ac-fb4e-46d9-a8a9-a86f4035b331" />
+
+ ## Circuit Screenshot  :
  
- 
+ <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/3be4186c-a88d-4b2a-a234-52fa8149dc9d" />
+
  
 ## Result :
 Interfacing a Analog Input (soil moisture sensor) with ARM microcontroller based IOT development is executed and the results visualized on serial monitor 
